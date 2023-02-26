@@ -1,6 +1,6 @@
 # LayerLottery
 
-Our implementation will be released soon.
+The source code will be released soon.
 
 Please cite our paper in your publications if it helps your research.
 ```bash
